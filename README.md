@@ -1,16 +1,17 @@
-### Hi there 👋
+- ☁ Aspiring Cloud Secruity Professional
 
-<!--
-**asuleman-cyber/asuleman-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 I'm actively improving my skillset.
 
-Here are some ideas to get you started:
+- 🗃 I'm currently working on my Cloud Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me: [LinkedIn] (https://www.linkedin.com/in/adam-suleman-077a73156/)
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+[ Azure Cloud SOC and HoneyNet](https://github.com/asuleman-cyber/Azure-Honey-Net-SOC " Cloud SOC Project")
+
+<h2> 🐍 Python Projects</h2>
+
+[Encrypted Password Generator ](https://github.com/asuleman-cyber/random-password-generator "Encrypted Password Generator ")
+
+[Portscanner](https://github.com/asuleman-cyber/python3---portscanner "Portscanner")
