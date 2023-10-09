@@ -4,7 +4,7 @@
 
 - 🗃 I'm currently working on my Cloud Projects.
 
-- 📫 Reach me: [LinkedIn] (https://www.linkedin.com/in/adam-suleman-077a73156/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adam-suleman-077a73156/)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
