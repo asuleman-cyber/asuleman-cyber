@@ -5,14 +5,17 @@
 <h2>🛠️ Automation & AI Projects</h2>
 
 [Support Article Tool/Tracker](https://github.com/asuleman-cyber/support-article-tool)
+
 [Host Website Project](https://github.com/asuleman-cyber/host-website-project-asuleman)
 
 <h2>☁️ Cloud & Security Projects</h2>
 
 [Azure Cloud SOC and HoneyNet](https://github.com/asuleman-cyber/Azure-Honey-Net-SOC)
+
 [Incident Response Documentation](https://github.com/asuleman-cyber/Security-Incident-Response)
 
 <h2>🐍 Python Projects</h2>
 
 [Encrypted Password Generator](https://github.com/asuleman-cyber/random-password-generator)
+
 [Portscanner](https://github.com/asuleman-cyber/python3---portscanner)
