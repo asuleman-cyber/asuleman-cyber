@@ -10,7 +10,8 @@
 [Personal Website](https://github.com/asuleman-cyber/host-website-project-asuleman)
 
 <h2>☁️ Cloud & Security Projects</h2>
-[Cloud Resume Challenge – AWS Deployment](https://medium.com/@adamsuleman00/cloud-resume-challenge-aws-deploying-cv-site-using-s3-codepipeline-and-cloudflare-2bffd1a696c5)
+
+[Cloud Resume Challenge AWS Deployment](https://medium.com/@adamsuleman00/cloud-resume-challenge-aws-deploying-cv-site-using-s3-codepipeline-and-cloudflare-2bffd1a696c5)
 
 [Azure Cloud SOC and HoneyNet](https://github.com/asuleman-cyber/Azure-Honey-Net-SOC)
 
