@@ -1,7 +1,13 @@
-- 🤖 Technical Builder | Support Ops → AI Tooling & Automation
-- 🔧 Building agents, workflows, and integrations that actually fix problems
+# Hey, I'm Adam 👋
+
+- 🤖 Senior Support Engineer | Building automations & AI tooling
+- 🔧 I help clients and small teams figure out what's actually broken in their systems and fix it with the right solution
+- ☁️ AWS & Azure certified, with a cybersecurity background (SOC, KQL, IAM)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adam-suleman-077a73156/)
 - ✍️ Writing on [Medium](https://medium.com/@adamsuleman00)
+
+## 🎮🧙‍♂️ [Boukensha: an AI agent that plays a live text game](https://github.com/asuleman-cyber/claude-code-camp-2026-Q2)
+A project built to navigate a 90s text-based game, using AI to type its own commands with no human at the keyboard. Instead of one AI doing everything, five roles share the work: a Planner sets the goal, a Player acts, a Judge checks progress and can say "rethink this", a Navigator reads the map, and a Chronicler writes notes so it remembers next session.
 
 <h2>🛠️ Automation & AI Projects</h2>
 
