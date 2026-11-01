@@ -1,30 +1,55 @@
+
 # Hey, I'm Adam 👋
 
-- 🤖 Senior Support Engineer | Building automations & AI tooling
-- 🔧 I help clients and small teams figure out what's actually broken in their systems and fix it with the right solution
-- ☁️ AWS & Azure certified, with a cybersecurity background (SOC, KQL, IAM)
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adam-suleman-077a73156/)
-- ✍️ Writing on [Medium](https://medium.com/@adamsuleman00)
+**Senior Support Engineer | AI Automation, Agentic Systems & Cloud Security**
 
-## 🎮🧙‍♂️ [Boukensha: an AI agent that plays a live text game](https://github.com/asuleman-cyber/claude-code-camp-2026-Q2)
-A project built to navigate a 90s text-based game, using AI to type its own commands with no human at the keyboard. Instead of one AI doing everything, five roles share the work: a Planner sets the goal, a Player acts, a Judge checks progress and can say "rethink this", a Navigator reads the map, and a Chronicler writes notes so it remembers next session.
+- 🤖 Building AI-powered tools and automations to solve real-world problems.
+- 🔧 Experienced in technical troubleshooting, systems integration, and improving support operations.
+- ☁️ AWS & Azure certified, with a cybersecurity background in SOC operations, KQL, and IAM.
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/adam-suleman-077a73156/)
+- ✍️ [Read my writing on Medium](https://medium.com/@adamsuleman00)
 
-<h2>🛠️ Automation & AI Projects</h2>
+## 🎮 Featured Project — [Boukensha · 冒険者](https://github.com/asuleman-cyber/claude-code-camp-2026-Q2)
 
-[Support Article Tool/Tracker](https://github.com/asuleman-cyber/support-article-tool)
+**A multi-agent AI system that learns to play a text-based fantasy RPG.**
 
-[Personal Website](https://github.com/asuleman-cyber/host-website-project-asuleman)
+Built in Ruby, Boukensha connects to a live CircleMUD game server, interprets game responses, and uses AI to decide and execute commands.
 
-<h2>☁️ Cloud & Security Projects</h2>
+The system orchestrates **five specialised AI roles** for planning, gameplay, progress evaluation, navigation, and cross-session memory. Each role has defined responsibilities and restricted tool permissions.
 
-[Cloud Resume Challenge AWS Deployment](https://medium.com/@adamsuleman00/cloud-resume-challenge-aws-deploying-cv-site-using-s3-codepipeline-and-cloudflare-2bffd1a696c5)
+**Engineering highlights:**
+- Built an AI orchestration workflow with MCP-based game integration.
+- Implemented persistent world mapping, cross-session memory, and permission-controlled agent tools.
+- Added structured logging, OpenTelemetry tracing, and an observability dashboard.
+- Validated the system against a live game server, demonstrating AI-driven replanning and memory retained between sessions.
 
-[Azure Cloud SOC and HoneyNet](https://github.com/asuleman-cyber/Azure-Honey-Net-SOC)
+**Tech:** `Ruby` · `LLM APIs` · `MCP` · `SQLite` · `Docker` · `OpenTelemetry`
 
-[Incident Response Documentation](https://github.com/asuleman-cyber/Security-Incident-Response)
+*Current scope: the AI executes game commands autonomously within a human-directed session; fully autonomous session management is future work.*
 
-<h2>🐍 Python Projects</h2>
+## 🛠️ Other Automation & AI Projects
 
-[Encrypted Password Generator](https://github.com/asuleman-cyber/random-password-generator)
+**[Support Article Tool/Tracker](https://github.com/asuleman-cyber/support-article-tool)**  
+A project focused on tooling for support documentation and knowledge management.
 
-[Portscanner](https://github.com/asuleman-cyber/python3---portscanner)
+**[Personal Website](https://github.com/asuleman-cyber/host-website-project-asuleman)**  
+Personal web development and deployment project.
+
+## ☁️ Cloud & Security Projects
+
+**[Cloud Resume Challenge — AWS Deployment](https://medium.com/@adamsuleman00/cloud-resume-challenge-aws-deploying-cv-site-using-s3-codepipeline-and-cloudflare-2bffd1a696c5)**  
+Cloud infrastructure and deployment using AWS services and Cloudflare.
+
+**[Azure Cloud SOC and HoneyNet](https://github.com/asuleman-cyber/Azure-Honey-Net-SOC)**  
+Cloud security monitoring and threat detection in an Azure lab environment.
+
+**[Incident Response Documentation](https://github.com/asuleman-cyber/Security-Incident-Response)**  
+Documentation of security incident response processes and investigative workflows.
+
+## 🐍 Python Projects
+
+**[Encrypted Password Generator](https://github.com/asuleman-cyber/random-password-generator)**  
+Python-based password generation project.
+
+**[Port Scanner](https://github.com/asuleman-cyber/python3---portscanner)**  
+Network port scanning project developed in Python.
